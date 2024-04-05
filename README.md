@@ -1,2 +1,3 @@
 # GitPrac
-1. Preethika
+1.Thirunavukkarasu
+2. Preethika
