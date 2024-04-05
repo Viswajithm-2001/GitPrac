@@ -1,2 +1,3 @@
 # GitPrac
-1.Viswajith MAthialagan
+1.Thirunavukkarasu
+2. Preethika3. Viswajith
